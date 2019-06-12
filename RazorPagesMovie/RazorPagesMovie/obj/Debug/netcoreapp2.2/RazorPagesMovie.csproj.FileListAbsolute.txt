@@ -5,7 +5,6 @@
 /Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/bin/Debug/netcoreapp2.2/RazorPagesMovie.pdb
 /Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/bin/Debug/netcoreapp2.2/RazorPagesMovie.Views.dll
 /Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/bin/Debug/netcoreapp2.2/RazorPagesMovie.Views.pdb
-/Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.csprojAssemblyReference.cache
 /Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.csproj.CoreCompileInputs.cache
 /Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.RazorAssemblyInfo.cache
 /Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.RazorAssemblyInfo.cs
@@ -28,3 +27,9 @@
 /Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.dll
 /Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.pdb
 /Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.csproj.CopyComplete
+/Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.csprojAssemblyReference.cache
+/Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Create.g.cshtml.cs
+/Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Delete.g.cshtml.cs
+/Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Details.g.cshtml.cs
+/Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Edit.g.cshtml.cs
+/Users/kalebhuddleston/git/razor-pages/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Index.g.cshtml.cs

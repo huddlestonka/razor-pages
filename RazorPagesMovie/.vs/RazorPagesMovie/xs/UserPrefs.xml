@@ -1,20 +1,23 @@
 ﻿<Properties StartupConfiguration="{EEC3283B-E25C-4427-8529-799CC5AF2E93}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/appsettings.json">
     <Files>
       <File FileName="RazorPagesMovie/Program.cs" Line="17" Column="1" />
+      <File FileName="RazorPagesMovie/Models/Movie.cs" Line="16" Column="2" />
+      <File FileName="RazorPagesMovie/Data/RazorPagesMovieContext.cs" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/appsettings.json" Line="11" Column="2" />
+      <File FileName="RazorPagesMovie/Startup.cs" Line="37" Column="83" />
+      <File FileName="RazorPagesMovie/appsettings.Development.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RazorPagesMovie" expanded="True">
             <Node name="RazorPagesMovie" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
